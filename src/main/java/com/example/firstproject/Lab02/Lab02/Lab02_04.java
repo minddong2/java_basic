@@ -1,4 +1,4 @@
-package com.example.firstproject;
+package com.example.firstproject.Lab02.Lab02;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.Scanner;
 
